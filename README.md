@@ -1,5 +1,7 @@
 ## Creating Groups in Active Directory
+### Link to Loom
 
+<https://loom.com/share/c32a49efefec4009b81f8e953af6ae06>
 ### Objective
 
 This SOP outlines the steps to create a new group in Active Directory for organizational purposes.
@@ -61,6 +63,4 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 - Familiarize yourself with the Active Directory interface to speed up navigation.
 - Use consistent naming conventions for groups to maintain organization.
 
-### Link to Loom
 
-<https://loom.com/share/c32a49efefec4009b81f8e953af6ae06># Creating-Groups-in-Active-Directory
