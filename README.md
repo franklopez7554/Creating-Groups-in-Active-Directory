@@ -12,8 +12,7 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 
 **Step 1: Access Active Directory Users** [0:00](https://loom.com/share/c32a49efefec4009b81f8e953af6ae06?t=0)
 
-![generated-image-at-00:00:00](https://loom.com/i/26bb38de009748febd3bbef74e03cc0a?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Creating-Groups-in-Active-Directory/blob/main/Screenshot%202025-07-02%20063048.png)
 - Open the Active Directory application.
 - Navigate to the 'Users' section.
 
@@ -21,8 +20,7 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 
 **Step 2: Select the Users Folder** [0:12](https://loom.com/share/c32a49efefec4009b81f8e953af6ae06?t=12)
 
-![generated-image-at-00:00:12](https://loom.com/i/e030e84e11734d4bbb3ff09610c0766e?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Creating-Groups-in-Active-Directory/blob/main/Screenshot%202025-07-02%20063110.png)
 - Click on 'Computers'.
 - Go back and click on 'Users'.
 
@@ -30,8 +28,7 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 
 **Step 3: Create a New Group** [0:25](https://loom.com/share/c32a49efefec4009b81f8e953af6ae06?t=25)
 
-![generated-image-at-00:00:25](https://loom.com/i/cc13f3852bd0452c99bbaed66872c3e7?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Creating-Groups-in-Active-Directory/blob/main/Screenshot%202025-07-02%20063128.png)
 - Right-click in the white space of the Users window.
 - Select 'New' from the context menu.
 - Click on 'Group'.
@@ -40,8 +37,7 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 
 **Step 4: Name the Group** [0:40](https://loom.com/share/c32a49efefec4009b81f8e953af6ae06?t=40)
 
-![generated-image-at-00:00:40](https://loom.com/i/c7c1205fd4724b2e94b6074e1f15425c?workflows_screenshot=true)
-
+![image](https://github.com/franklopez7554/Creating-Groups-in-Active-Directory/blob/main/Screenshot%202025-07-02%20063143.png)
 - In the Group Name field, enter a name for the group (e.g., 'School Group').
 - Ensure the options for 'Global' and 'Security' are selected.
 
@@ -49,7 +45,6 @@ This SOP outlines the steps to create a new group in Active Directory for organi
 
 **Step 5: Finalize Group Creation** [0:40](https://loom.com/share/c32a49efefec4009b81f8e953af6ae06?t=40)
 
-![generated-image-at-00:00:40](https://loom.com/i/c7c1205fd4724b2e94b6074e1f15425c?workflows_screenshot=true)
 
 - Click 'OK' to create the group.
 
